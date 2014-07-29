@@ -1,0 +1,73 @@
+/* Starry Skies (by LifeMushroom) */
+@import url('../../css/borders.css');
+
+body
+{
+	background: black url("starryskies.png");
+	color: #909;
+}
+
+a:link { color: #8af; }
+a:visited { color: #8af; }
+a:active, a:hover { color: white; }
+
+table, tr, td, th, div
+{
+	border-color: #603;
+}
+/* Home, forums header*/
+.header1
+{
+	background: #909;
+	text-shadow: #000 1px 1px 1px;
+}
+/*forumlinks*/
+.header0
+{
+	background: #939;
+	text-shadow: #000 1px 1px 1px;
+}
+/*pora,leftside*/
+.cell1, table.post td.post
+{
+	background: #674C9B;
+	text-shadow: #000 1px 1px 1px;
+}
+/*top, rightside*/
+.cell0, table.post td.side, table.post td.meta
+{
+	background: black url("starryskies.png");
+	text-shadow: #000 1px 1px 1px;
+}
+
+
+button, input[type="button"], input[type="submit"]
+{
+	border: 2px solid #23f;
+	background: black;
+	color: #eef;
+	text-shadow: #000 1px 1px 1px;
+}
+
+input[type="text"], input[type="password"], input[type="file"], input[type="email"], select, textarea
+{
+	background: black;
+	border: 1px solid #23f;
+	color: #C0C;
+	text-shadow: #000 1px 1px 1px;
+}
+
+div#tabs button
+{
+	border-width: 1px;
+	border-radius: 0px;
+	margin-bottom: 1px;
+	text-shadow: #000 1px 1px 1px;
+}
+
+div#tabs button.selected
+{
+	border-bottom: 1px solid #603;
+	background: #603;
+	text-shadow: #000 1px 1px 1px;
+}
