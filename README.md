@@ -2,7 +2,6 @@ Blargboard Extras
 ===================
 Blargboard is a forum software developed in PHP and MySQL.<br>
 This is where extra themes, ranksets, and addons for Blargboard will be uploaded.<br>
-Create a folder somewhere called themes. Download and extract the theme(s) to the 'themes' folder.<br>
-Delete this README.md file once you're done with that. Connect to your board via FTP and drag the theme(s)<br>
-into your board's theme directory (/public_html/themes/ or /themes/).<br>
+Create a folder somewhere called "extras". Download and extract the ranksets and themes to the "extras" folder.<br>
+After that, delete README.md. Connect to your board via FTP and drag the ranksets and themes into your board's directory.<br>
 Download to Blargboard: http://github.com/StapleButter/Blargboard
