@@ -44,28 +44,28 @@
         <tr>
 			<td><b>Add download name here<b></td>
 			<td><b><a href="">Add download link here</a><b></td>
-			<td>Add release notes or something like that here, or if you don't need to post anything here just write n/a</td>
+			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
 		</tr>
 			
 		<tr class="alt">
 			<td><b>Add download name here<b></td>
 			<td><b><a href="">Add download link here</a><b></td>
-			<td>Add release notes or something like that here, or if you don't need to post anything here just write n/a</td>
+			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
 		</tr>
 		<tr>
 			<td><b>Add download name here<b></td>
 			<td><b><a href="">Add download link here</a><b></td>
-			<td>Add release notes or something like that here, or if you don't need to post anything here just write n/a</td>
+			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
 	<tr>	
 		</tr>	
 		<tr class="alt">
 			<td><b>Add download name here<b></td>
 			<td><b><a href="">Add download link here</a><b></td>
-			<td>Add release notes or something like that here, or if you don't need to post anything here just write n/a</td>
+			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
 		</tr>
 		<tr>
 			<td><b>Add download name here<b></td>
 			<td><b><a href="">Add download link here</a><b></td>
-			<td>Add release notes or something like that here, or if you don't need to post anything here just write n/a</td>
+			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
 		</tr>
 	</table>
