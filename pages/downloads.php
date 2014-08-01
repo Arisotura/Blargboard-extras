@@ -34,7 +34,8 @@
     background-color: #222624;
 }
 </style>
-	<table class="downloadtable" width="1029" border="1" cellspacing="1" cellpadding="0">
+
+	<table class="downloadtable" border="1" cellspacing="1" cellpadding="0">
 	<table id="downloads">
 		<tr>
 			<th>Download Name</th>
