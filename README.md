@@ -5,7 +5,7 @@ This is where extra themes, ranksets, and addons for Blargboard will be uploaded
 Overwrite the folders here with the folders on the board.<br>
 Download for Blargboard: http://github.com/StapleButter/Blargboard
 <h2>Credits</h2><br>
-Blargboard made by StapleButter, based of ABXD by Dirbaio Kawa & co.
+Blargboard made by StapleButter, based of ABXD by Dirbaio, Kawa & co.
 
 <h3>Themes:</h3>:<br>
 - Fiery Heatwave theme: LifeMushroom<br>
@@ -26,6 +26,7 @@ Blargboard made by StapleButter, based of ABXD by Dirbaio Kawa & co.
 - Minecraft rankset: Jawsome<br>
 - Power-Ups rankset: SuperYoshi1000<br>
 - Yoshi rankset: 8JeDaYoshi8<br>
+- Jinjo rankset: Solaris<br>
 <h3>Addons/Pages:</h3>:<br>
 - Download Page addon: Hennamann<br>
 - IRC Page Addon: StarLand, LifeMushroom
