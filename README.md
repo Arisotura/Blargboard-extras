@@ -3,9 +3,11 @@ Blargboard Extras
 Blargboard is a forum software developed in PHP and MySQL.<br>
 This is where extra themes, ranksets, and addons for Blargboard will be uploaded.<br>
 Overwrite the folders here with the folders on the board.<br>
-Download to Blargboard: http://github.com/StapleButter/Blargboard
+Download for Blargboard: http://github.com/StapleButter/Blargboard
 <h2>Credits</h2><br>
-<h3>Themes</h3>:<br>
+Blargboard made by StapleButter, based of ABXD by Dirbaio Kawa & co.
+
+<h3>Themes:</h3>:<br>
 - Fiery Heatwave theme: LifeMushroom<br>
 - Frosty Flake theme: LifeMushroom<br>
 - Ocean Wave theme: LifeMushroom<br>
@@ -24,6 +26,6 @@ Download to Blargboard: http://github.com/StapleButter/Blargboard
 - Minecraft rankset: Jawsome<br>
 - Power-Ups rankset: SuperYoshi1000<br>
 - Yoshi rankset: 8JeDaYoshi8<br>
-<h3>Addons/Pages</h3>:<br>
+<h3>Addons/Pages:</h3>:<br>
 - Download Page addon: Hennamann<br>
 - IRC Page Addon: StarLand, LifeMushroom
