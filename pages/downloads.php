@@ -1,6 +1,6 @@
 <!-- Download Page made by Hennamann for Blargboard 1.1 and 1.2
  Blargboard made by StapleButter. Enjoy! -->
-
+<title>Downloads</title>
 <style>
   .downloadtable{
    border: 1px solid #0D462B;
@@ -34,7 +34,8 @@
     background-color: #222624;
 }
 </style>
-	<table class="downloadtable" width="1029" border="1" cellspacing="1" cellpadding="0">
+
+	<table class="downloadtable" border="1" cellspacing="1" cellpadding="0">
 	<table id="downloads">
 		<tr>
 			<th>Download Name</th>
@@ -44,28 +45,28 @@
         <tr>
 			<td><b>Add download name here<b></td>
 			<td><b><a href="">Add download link here</a><b></td>
-			<td>Add release notes or something like that here, or if you don't need to post anything here just write n/a</td>
+			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
 		</tr>
 			
 		<tr class="alt">
 			<td><b>Add download name here<b></td>
 			<td><b><a href="">Add download link here</a><b></td>
-			<td>Add release notes or something like that here, or if you don't need to post anything here just write n/a</td>
+			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
 		</tr>
 		<tr>
 			<td><b>Add download name here<b></td>
 			<td><b><a href="">Add download link here</a><b></td>
-			<td>Add release notes or something like that here, or if you don't need to post anything here just write n/a</td>
+			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
 	<tr>	
 		</tr>	
 		<tr class="alt">
 			<td><b>Add download name here<b></td>
 			<td><b><a href="">Add download link here</a><b></td>
-			<td>Add release notes or something like that here, or if you don't need to post anything here just write n/a</td>
+			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
 		</tr>
 		<tr>
 			<td><b>Add download name here<b></td>
 			<td><b><a href="">Add download link here</a><b></td>
-			<td>Add release notes or something like that here, or if you don't need to post anything here just write n/a</td>
+			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
 		</tr>
 	</table>
