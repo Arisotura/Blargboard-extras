@@ -1,6 +1,6 @@
 <!-- Download Page made by Hennamann for Blargboard 1.1 and 1.2
  Blargboard made by StapleButter. Enjoy! -->
-
+<title>Downloads</title>
 <style>
   .downloadtable{
    border: 1px solid #0D462B;
@@ -35,7 +35,7 @@
 }
 </style>
 
-	<table class="downloadtable" width="1029" border="1" cellspacing="1" cellpadding="0">
+	<table class="downloadtable" border="1" cellspacing="1" cellpadding="0">
 	<table id="downloads">
 		<tr>
 			<th>Download Name</th>
