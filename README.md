@@ -18,6 +18,7 @@ Blargboard made by StapleButter, based of ABXD by Dirbaio, Kawa & co.
 - Lightning theme: StarLand<br>
 - Spiral Mountain: Starland<br>
 - Xceeper theme: StarLand<br>
+- Tierages Forum Dark theme: Tierage<br>
 <h3>Ranksets:</h3><br>
 - 2048 rankset: Kyle McShade<br>
 - BT rankset: Solaris<br>
