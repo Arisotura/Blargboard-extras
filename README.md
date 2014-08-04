@@ -12,7 +12,7 @@ Blargboard made by StapleButter, based of ABXD by Dirbaio, Kawa & co.
 - Frosty Flake theme: LifeMushroom<br>
 - Ocean Wave theme: LifeMushroom<br>
 - Starry Skies theme: LifeMushroom<br>
-- Tierages Forum theme: Tierage<br>
+- Tierage's Forum theme: Tierage<br>
 - Victory Rainbow theme: 1UpMushroom<br>
 - Hailfire Peaks theme: StarLand<br>
 - Lightning theme: StarLand<br>
