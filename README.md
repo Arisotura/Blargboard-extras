@@ -16,9 +16,10 @@ Blargboard made by StapleButter, based of ABXD by Dirbaio, Kawa & co.
 - Victory Rainbow theme: 1UpMushroom<br>
 - Hailfire Peaks theme: StarLand<br>
 - Lightning theme: StarLand<br>
-- Spiral Mountain: Starland<br>
+- Spiral Mountain theme: Starland<br>
 - Xceeper theme: StarLand<br>
-- Tierages Forum Dark theme: Tierage<br>
+- Tierage's Forum Dark theme: Tierage<br>
+- Tierage's Forum Red theme: Tierage<br>
 <h3>Ranksets:</h3><br>
 - 2048 rankset: Kyle McShade<br>
 - BT rankset: Solaris<br>
@@ -30,4 +31,4 @@ Blargboard made by StapleButter, based of ABXD by Dirbaio, Kawa & co.
 - Jinjo rankset: Solaris<br>
 <h3>Addons/Pages:</h3><br>
 - Download Page addon: Hennamann<br>
-- IRC Page Addon: StarLand, LifeMushroom
+- IRC Page addon: StarLand, LifeMushroom
