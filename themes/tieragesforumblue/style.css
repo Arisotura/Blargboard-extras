@@ -1,0 +1,224 @@
+/* 
+* Tierage's Forum Dark, a free Blargboard theme by Tierage
+* WARNING: Header info box and navigation sidebar are disabled.
+* Thanks for downloading my theme :)
+*/
+
+body {
+  background: #121212;
+  background-image:url('http://tierage.byethost8.com/board/img/noise-texture.png');
+  color: #fff;
+  font-family: sans-serif;
+}
+
+#navBar {
+  padding: 0px 12px;
+  background: #0066b0;
+  background-image: linear-gradient(#0079D1, #0066b0);
+  border-width: 0px !important;
+}
+
+#navBar a {
+  color: #fff !important;
+}
+
+/* hides the sidebar, header info box, and ugly header separator */
+#main-sidebar,#headerInfo,#header-sep {
+  display: none !important;
+}
+
+/* centers the header banner */
+#theme_banner {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+a:link, a:visited { 
+  color: #6DBDF2; 
+}
+
+a:active, a:hover { 
+  color: #fff; 
+}
+
+table.outline, table.post {
+  border-radius: 0px;
+}
+
+.margin, .pages {
+  margin-bottom: 1.3em;
+}
+
+div#page_contents {
+  padding: 1em;
+}
+
+table.outline > tbody > tr > *,table.post td.userlink,table.post td.meta {
+  border: 0px solid #555555;
+}
+
+table.outline > tbody > tr > td,table.post td.side:not(.userlink) {
+  border-left: 0px solid #0066b0;
+  border-right: 0px solid #0066b0;
+  padding: 3px 5px;
+}
+
+table.outline > tbody > tr > td:last-child {
+  border-left: 0px solid #0066b0;
+  border-right: 0px solid #0066b0;
+}
+
+table.outline > tbody:first-child > tr:first-child > *:first-child, table.post td.userlink {
+  border-top-left-radius: 0px;
+}
+
+table.outline > tbody:first-child > tr:first-child > *:last-child, table.post td.meta {
+  border-top-right-radius: 0px;
+}
+
+table.outline > tbody:last-child > tr:last-child > *:first-child, table.post td.side:not(.userlink), table.deletedpost td.side {
+  border-bottom-left-radius: 0px;
+}
+
+table.outline > tbody:last-child > tr:last-child > *:last-child, table.post td.post, table.deletedpost td.meta {
+  border-bottom-right-radius: 0px;
+}
+
+tr.header0 > th, tr.header1 > th, table.post td.userlink, table.post td.meta {
+  color:#fff !important;
+  background: #0066b0;
+  background-image: linear-gradient(#0079D1, #0066b0);
+  padding: 4px 6px;
+  text-shadow: 1px 1px 2px #000;
+}
+
+td.cell1,tr.cell1 > td:not(.cell0):not(.cell2),table.post td.post {
+  background: #222;
+}
+td.cell0, td.cell2,tr.cell0 > td:not(.cell1), tr.cell2 > td:not(.cell1),table.post td.side:not(.userlink) {
+  background: #222;
+  border-width: 0px !important;
+}
+
+button, input[type='submit'] {
+  padding: 3px 9px; }
+
+.postToolbar button {
+  padding: 0; }
+
+table#header,table#header > tbody > tr > *,table#footer,table#footer > tbody > tr > *
+{
+  border-left-width: 0;
+  border-right-width: 0;
+  border-radius: 0;
+}
+table#header {
+  border-top-width: 0;
+}
+table#footer {
+	border-bottom-width: 0;
+}
+table#sidebar,
+table#sidebar > tbody > tr > *
+{
+	border-left-width: 0;
+	border-top-width: 0;
+	border-bottom-width: 0;
+	border-radius: 0;
+}
+
+table#page-container > tbody > tr:first-child > td.crumb-container > table
+{
+	border-top-width: 0;
+	border-left-width: 0;
+	border-right-width: 0;
+	border-radius: 0;
+}
+
+table#page-container > tbody > tr:last-child > td.crumb-container > table
+{
+	border-bottom-width: 0;
+	border-left-width: 0;
+	border-right-width: 0;
+	border-radius: 0;
+}
+
+table#page-container > tbody > tr:first-child > td.crumb-container > table > tbody > tr > *, table#page-container > tbody > tr:last-child > td.crumb-container > table > tbody > tr > * {
+	border-radius: 0;
+}
+
+.navButton:hover, .dropdownContainer:hover > .navButton {
+  background: #222;
+  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+}
+
+ul.dropdownMenu {
+	border-radius: 3px;
+	text-shadow: none;
+}
+
+ul.dropdownMenu li
+{
+	border-top: none 0;
+	border-left: none 0;
+	border-right: none 0;
+	border-bottom: 0px solid #043;
+	background: #222;
+}
+
+ul.dropdownMenu li:first-child
+{
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+ul.dropdownMenu li:last-child
+{
+	border-bottom: none 0;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+
+button, input[type="button"], input[type="submit"] {
+	border-width: 0px;
+	background: #0079D1;
+	color: #fff;
+}
+
+button:hover, input[type="button"]:hover, input[type="submit"]:hover {
+	background: #008BF0;
+}
+
+input[type="text"], input[type="password"], input[type="file"], input[type="email"], select, textarea
+{
+	border: 1px solid #DEDEDE;
+	border-radius: 3px;
+	background: #eee;
+	color: #121212;
+}
+
+div#tabs
+{
+	padding-left: 10px;
+	margin-bottom: -1px;
+}
+
+div#tabs button
+{
+	border: 1px solid #0079D1;
+	border-radius: 2px 2px 0 0;
+	background: #0079D1;
+	padding-bottom: 4px;
+}
+
+div#tabs button.selected, div#tabs button:hover {
+	background: #008BF0;
+}
+
+div.postToolbar button {
+	width: 1.9em;
+	height: 1.9em;
+}
