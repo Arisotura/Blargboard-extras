@@ -18,7 +18,7 @@ Blargboard made by StapleButter, based of ABXD by Dirbaio, Kawa & co.
 - Lightning theme: StarLand<br>
 - Spiral Mountain theme: Starland<br>
 - Xceeper theme: StarLand<br>
-- Tierage's Forum theme: Tierage<br>
+- Tierage's Forum Old theme: Tierage<br>
 - Tierage's Forum Blue theme: Tierage<br>
 - Tierage's Forum Red theme: Tierage<br>
 - Tierage's Forum Green theme: Tierage<br>
