@@ -1,0 +1,3 @@
+Tierage's Forum Purple
+(removes header info box and sidebar)
+By Tierage

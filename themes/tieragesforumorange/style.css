@@ -1,5 +1,5 @@
 /* 
-* Tierage's Forum Dark, a free Blargboard theme by Tierage
+* Tierage's Forum Orange, a free Blargboard theme by Tierage
 * WARNING: Header info box and navigation sidebar are disabled.
 * Thanks for downloading my theme :)
 */
@@ -13,8 +13,8 @@ body {
 
 #navBar {
   padding: 0px 12px;
-  background: #D14747;  
-  background-image: linear-gradient(#D14747, #B64141);
+  background: #F0A848;
+  background-image: linear-gradient(#F0A848, #F09030);
   border-width: 0px !important;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 a:link, a:visited { 
-  color: #e87d7d; 
+  color: #f9df90; 
 }
 
 a:active, a:hover { 
@@ -87,8 +87,8 @@ table.outline > tbody:last-child > tr:last-child > *:last-child, table.post td.p
 
 tr.header0 > th, tr.header1 > th, table.post td.userlink, table.post td.meta {
   color:#fff !important;
-  background: #D14747;  
-  background-image: linear-gradient(#D14747, #B64141);
+  background: #F0A848;
+  background-image: linear-gradient(#F0A848, #F09030);
   padding: 4px 6px;
   text-shadow: 1px 1px 2px #000;
 }
@@ -183,12 +183,12 @@ ul.dropdownMenu li:last-child
 
 button, input[type="button"], input[type="submit"] {
 	border-width: 0px;
-	background: #D14747;
+	background: #F09030;
 	color: #fff;
 }
 
 button:hover, input[type="button"]:hover, input[type="submit"]:hover {
-	background: #E04F4F;
+	background: #F0A848;
 }
 
 input[type="text"], input[type="password"], input[type="file"], input[type="email"], select, textarea
@@ -207,14 +207,14 @@ div#tabs
 
 div#tabs button
 {
-	border: 1px solid #D14747;
+	border: 1px solid #F09030;
 	border-radius: 2px 2px 0 0;
-	background: #D14747;
+	background: #F09030;
 	padding-bottom: 4px;
 }
 
 div#tabs button.selected, div#tabs button:hover {
-	background: #E04F4F;
+	background: #F0A848;
 }
 
 div.postToolbar button {

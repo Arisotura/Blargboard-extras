@@ -1,0 +1,3 @@
+Tierage's Forum Orange
+(removes header info box and sidebar)
+By Tierage
