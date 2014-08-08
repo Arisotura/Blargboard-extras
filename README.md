@@ -22,6 +22,8 @@ Blargboard made by StapleButter, based of ABXD by Dirbaio, Kawa & co.
 - Tierage's Forum Blue theme: Tierage<br>
 - Tierage's Forum Red theme: Tierage<br>
 - Tierage's Forum Green theme: Tierage<br>
+- Tierage's Forum Orange theme: Tierage<br>
+- Tierage's Forum Purple theme: TIerage<br>
 <h3>Ranksets:</h3><br>
 - 2048 rankset: Kyle McShade<br>
 - BT rankset: Solaris<br>
