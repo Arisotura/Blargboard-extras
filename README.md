@@ -24,7 +24,3 @@ Zodiac Signs: Kawa (was for ABXD)<br>
 <h3>Addons/Pages:</h3><br>
 - Download Page addon: Hennamann<br>
 - IRC Page addon: StarLand, LifeMushroom<br>
-## test<br>
-bla<br>
-# test<br>
-bla<br>
