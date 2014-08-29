@@ -1,3 +1,0 @@
-Tierage's Forum Red
-(removes header info box and sidebar)
-By Tierage
