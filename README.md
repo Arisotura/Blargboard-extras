@@ -3,7 +3,7 @@
 Blargboard is a forum software developed in PHP and MySQL.  
 This is where extra themes, ranksets, and addons for Blargboard will be uploaded.  
 ## How to install:  
-Overwrite the folders here with the folders on the board.  
+Simply add the content of each directory to the same directory that exists in your board's files. For example, you would take a folder for a theme in the 'themes' directory and put it in the themes directory that exists in your board's files.
 Download for Blargboard: [Blargboard](http://github.com/StapleButter/Blargboard/)
 
 ## Credits  
