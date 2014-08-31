@@ -5,10 +5,10 @@ This is where extra themes, ranksets, and addons for Blargboard will be uploaded
 #### How to install:  
 Overwrite the folders here with the folders on the board.  
 Download for Blargboard: [Blargboard](http://github.com/StapleButter/Blargboard/)
-### Credits  
+#### Credits  
 Blargboard made by StapleButter, based of ABXD by Dirbaio, Kawa & co.
 
-#### Themes:  
+### Themes:  
 Too many themes to list. Check themeinfo.txt to see who made that theme.  
 
 ### Ranksets:  
