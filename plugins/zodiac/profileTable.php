@@ -16,6 +16,7 @@ if($user['birthday'])
 		"&#x2650; Saggitarius",
 		"&#x2651; Capricorn",
 	);
+	
 	$dates = array(
 		 120,
 		 218,
