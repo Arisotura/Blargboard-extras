@@ -25,8 +25,8 @@ Too many themes to list. Check themeinfo.txt to see who made that theme.
 
 ### Plugins:  
 
-- Trollslum: Kawa (was for ABXD)  
-- Zodiac Signs: Kawa (was for ABXD)  
+- Trollslum: Kawa 
+- Zodiac Signs: Kawa  
 
 ### Addons/Pages:  
 - Download Page addon: Hennamann  
