@@ -36,7 +36,7 @@ if($user['birthday'])
 	{
 		if($dates[$i] < $bday)
 		{
-			$profileParts['Other stuff']['Zodiac sign'] = $zodiacsigns[$i];
+			$profileParts['Miscellaneous']['Zodiac sign'] = $zodiacsigns[$i];
 			break;
 		}
 	}

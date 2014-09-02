@@ -64,7 +64,7 @@ if($user['birthday'])
 	{
 		if($dates[$i] < $bday)
 		{
-			$profileParts['Other stuff']['Patron Troll'] = format("<span title=\"{1}\"><span style=\"color: {2}\"></span> {0}</span>", $trolls[$i], $tooltips[$i], $colors[$i]);
+			$profileParts['Miscellaneous']['Patron Troll'] = format("<span title=\"{1}\"><span style=\"color: {2}\"></span> {0}</span>", $trolls[$i], $tooltips[$i], $colors[$i]);
 			break;
 		}
 	}
