@@ -30,4 +30,4 @@ Too many themes to list. Check themeinfo.txt to see who made that theme.
 
 ### Addons/Pages:  
 - Download Page addon: Hennamann  
-- IRC Page addon: StarLand, LifeMushroom  
+- IRC Page addon: StarLand, LifeMushroom
