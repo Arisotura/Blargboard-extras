@@ -1,7 +1,8 @@
 # Blargboard Extras 
 
 Blargboard is a forum software developed in PHP and MySQL based off of ABXD.  
-Download for Blargboard: [Download](http://github.com/StapleButter/Blargboard/)  
+Download for Blargboard: [Download](http://github.com/StapleButter/Blargboard/) 
+
 This is where extra themes, ranksets, and addons for will be uploaded.  
 
 ## How to install:  
@@ -11,7 +12,7 @@ Simply add the content of each directory to the same directory that exists in yo
 Blargboard made by StapleButter, based of ABXD by Dirbaio, Kawa & co.
 
 ## Themes:  
-Too many themes to list. Check themeinfo.txt to see who made that theme.  
+Check themeinfo.txt to see who made the theme.  
 
 ### Ranksets:  
 
