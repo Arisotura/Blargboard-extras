@@ -1,5 +1,6 @@
 <?php
-// Plugin by Kawa for ABXD
+// Plugin by Kawa from ABXD
+
 if($user['birthday'])
 {
 	$zodiacsigns = array(
