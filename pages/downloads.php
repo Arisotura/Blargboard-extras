@@ -1,7 +1,7 @@
 <!-- Download Page made by Hennamann for Blargboard 1.1 and 1.2
  Blargboard made by StapleButter. Enjoy! -->
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-<title>Downloads</title>
+<title>Downloads Page</title>
 <style>
   
   .downloadtable{
