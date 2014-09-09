@@ -32,5 +32,5 @@ Check themeinfo.txt to see who made the theme.
 - Zodiac Signs: Kawa  
 
 ### Addons/Pages:  
-- Download Page addon: Hennamann  
+- Download Page addon: Hennamann   
 - IRC Page addon: StarLand, LifeMushroom
