@@ -31,4 +31,5 @@ $ranksetData["BK_redone"] = array(
 	array("num" => 500, "image" => 'Grunty.png', "text" => 'Gruntillda'),
 	array("num" => 525, "image" => 'kazooie.png', "text" => 'Kazooie'),
 	array("num" => 555, "image" => 'JiggyMaster.png', "text" => 'Jiggy Master'),
+	
 );
