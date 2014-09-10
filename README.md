@@ -31,6 +31,6 @@ Check themeinfo.txt to see who made the theme.
 - Trollslum: Kawa 
 - Zodiac Signs: Kawa  
 
-### Addons/Pages:  
-- Download Page addon: Hennamann   
-- IRC Page addon: StarLand, LifeMushroom
+### Pages:  
+- Download Page: Hennamann   
+- IRC Page: StarLand, LifeMushroom
