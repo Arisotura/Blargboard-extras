@@ -77,7 +77,8 @@
 		</tr>
         <tr>
              <!-- If you want a custom icon and not Font Awesome, you can use this html instead: <img src="http://kuribo64.net/img/icons/icon1.png"> 
-             NOTE: If you are using font awesome for the icons, make sure to add fa-lg after you icon code, to get the best result! -->
+             NOTE: If you are using font awesome for the icons, make sure to add fa-lg after you icon code, to get the best result! Also, try to keep the image small, and not 
+             giant.-->
 			<td><i class="fa fa-file-code-o fa-lg"></td>
 			<td><b>Add download name here<b></td>
 			<td><b><a href=""><button type="button">Download</button></a><b></td>
@@ -104,7 +105,7 @@
 			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
 		</tr>
 		<tr>
-			<td><i class="fa fa-file-code-o fa-lg"></td>
+			<td><i class="fa fa-file-code-o fa-lg"></td> 
 			<td><b>Add download name here<b></td>
 			<td><b><a href=""><button type="button">Download</button></a><b></td>
 			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
@@ -121,7 +122,7 @@
 	<i class="fa fa-file-image-o"></i>: Image File(JPG, PNG, etc)<br>
 	<i class="fa fa-file-video-o"></i>: Video File(MP4, WMV, etc)<br>
 	<i class="fa fa-file-archive-o"></i>: Archive(Zip, 7Zip, etc)<br>
-	<!-- Add your own Icon Definitions either using ther font awesome icons, or by using your own icons here: VV. Feel free to remove the other ones or replace them!(: -->
+	<!-- Add your own Icon Definitions either using the font awesome icons, or by using your own icons here: VV. Feel free to remove the other ones or replace them!(: -->
 	<br>
 	</div>
 	<!-- Feel free to remove these notes completely, edit them to your own or whatever, these are just some simple examples! -->
