@@ -6,8 +6,8 @@ Download for Blargboard: [Link](http://github.com/StapleButter/Blargboard/)
 This is where more themes, ranksets, and addons for will be uploaded.  
 
 ## How to install:  
-Simply add the content of each directory to the same directory that exists in your board's files.  
-For example, you would take a folder for a theme in the 'themes' directory and put it in the themes directory that exists in your board's files.  
+Add the content of each directory to the same directory that exists in your board's files.  
+For example, you would take a folder for a theme in the 'themes' directory and put it in the themes directory that exists in your board's directory. 
 
 ## Credits  
 Blargboard made by StapleButter, based of ABXD by Dirbaio, Kawa & co.
