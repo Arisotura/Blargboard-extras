@@ -1,4 +1,4 @@
-/* AcmlmBoard XD - Because css deserves better usage*/
+/* Blargboard - Because css deserves better usage*/
 @import url('../../css/borders.css');
 
 body
@@ -13,12 +13,11 @@ body
 
 .cell1
 {
-	background: blue;
+	background: #000 url(back.jpg);
 }
-
 .cell2, .faq
 {
-	background: black;
+	background: #000 url(back.jpg)
 }
 
 .outline
@@ -57,12 +56,12 @@ a:hover
 
 .header0 th, .errort
 {
-	background: #2f2f5f;
+	background: darkblue;
 }
 
 .header1 th
 {
-	background: #302048;
+	background: darkblue;
 }
 
 table.post
@@ -72,13 +71,13 @@ table.post
 
 td.side, td.meta, table.post td.post
 {
-	background: #111133;
+	background: darkblue;
 }
 
 input, select, textarea, button
 {
-	border: 1px solid #663399;
-	background: #000000;
+	border: 1px solid blue;
+	background: darkblue;
 	color: white;
 }
 
@@ -89,8 +88,8 @@ div#tabs {
 
 div#tabs button
 {
-	background: #2f2f5f;
-	border: 1px solid #000;
+	background: darkblue;
+	border: 2px solid blue;
 	padding-right: 16px;
 }
 
@@ -98,6 +97,6 @@ div#tabs button.selected
 {
 	position: static;
 	z-index: -100;
-	border-bottom: 1px solid #2f2f5f;
+	border-bottom: 1px solid blue;
 }
 
