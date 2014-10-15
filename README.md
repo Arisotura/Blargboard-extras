@@ -11,7 +11,7 @@ For example, you would take a folder for a theme in the 'themes' directory and p
 ## Credits  
 Blargboard made by StapleButter, based of ABXD by Dirbaio, Kawa & co.  
 
-## Themes:  
+### Themes:  
 Check themeinfo.txt to see who made the theme that you're looking for.
 
 ### Ranksets:  
