@@ -1,0 +1,101 @@
+/* Blargboard - Blarg City theme (by StapleButter) */
+
+@import url('../../css/borders-ab2.css');
+
+body
+{
+	background: url('blargground.png') fixed black;
+	color: white;
+}
+
+a:link { color: #9bf; }
+a:visited { color: #8af; }
+a:active, a:hover { color: #fff; text-decoration: underline; }
+
+.margin
+{
+	margin-bottom: 1em;
+}
+
+table.outline,
+table.post
+{
+	border: 1px solid #23f;
+	background: url('blurgground.png') fixed;
+	max-height: 100%;
+}
+
+table.outline > tbody > tr > td,
+table.outline > tbody > tr > th,
+table.post td
+{
+	border-color: #000c66;
+}
+
+table.post td.side,
+table.post td.meta
+{
+	background: rgba(34,51,255,0.1);
+}
+
+th.header1, tr.header1 th
+{
+	background: rgba(34,51,255,0.6);
+	font-size: 90% !important;
+	padding: 2px;
+}
+
+th.header0, tr.header0 th
+{
+	background: rgba(17,34,204,0.6);
+	font-size: 90% !important;
+	padding: 2px;
+}
+
+td.cell0, tr.cell0 td,
+td.cell2, tr.cell2 td
+{
+	background:  rgba(34,51,255,0.1);
+}
+
+td.cell1, tr.cell1 td:not(.cell0):not(.cell2)
+{
+	background: none;
+}
+
+ul.dropdownMenu
+{
+	border: 1px solid #23f;
+	background: url('blurgground.png') fixed;
+}
+
+ul.dropdownMenu li
+{
+	border: 1px solid #000c66;
+	background: none;
+}
+
+ul.dropdownMenu li:not(:first-child)
+{
+	border-top: none 0;
+}
+
+textarea,input,select,button
+{
+  border: #34f ridge 2px;
+  background: black;
+  color: white;
+}
+
+input[type='submit'], input[type='button']
+{
+  border: #ffd040 ridge 2px;
+  color: #ffd040;
+  font-weight: bold;
+}
+
+.navButton:hover, .dropdownContainer:hover > .navButton
+{
+	background-color: rgba(0,0,0,0);
+	background: url('blurgground.png') fixed;
+}
