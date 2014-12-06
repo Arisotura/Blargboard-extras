@@ -5,5 +5,5 @@
 <br>
 You can join the channel with your IRC Client with this data:<br>
 <tbody><tr class="header1"><th>Channel:</th><th style="width: 20%">Server:</th></tr><tr class="cell1"><td>#yourchannel</td><td><table><tbody><tr>irc.yourserver.com</td></tr></tbody></table></td></tr></tbody></table>
-<br>If you client allows irc:// links, click <a href="#" onclick="irc://irc.yourserver.com/yourchannel">here</a>
+<br>If your client allows irc:// links, click <a href="#" onclick="irc://irc.yourserver.com/yourchannel">here</a>
 </div>
