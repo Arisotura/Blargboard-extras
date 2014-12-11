@@ -5,7 +5,6 @@ $title = __("IRC Page");
 <div align="center">
 <center>
 <!--There's an online IRC client working with KiwiIRC. Edit the stuff for the server and channel, and, if you want, change IRCGuest to something more cool.-->
-<!--IRC page for Blargboard/Blargboard Plus/ABXD by 8JeDaYoshi8.-->
 <iframe src="https://kiwiirc.com/client/irc.yourserver.com/?nick=IRCGuest?#yourchannel" style="border:0; width:125%; height:525px;"></iframe>
 <br>
 If you have an IRC Client..:<br>
