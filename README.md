@@ -1,6 +1,6 @@
 # Blargboard Extras 
 
-Blargboard is a forum software developed in PHP and MySQL based off of ABXD. Download it [here](http://github.com/LifeMushroom/Blargboard/).  
+Blargboard is a forum software developed in PHP and MySQL based off of ABXD by StapleButter. Download it where ever you can find it, as it is dead.
 
 This is where themes, ranksets, and addons will be uploaded.  
 
