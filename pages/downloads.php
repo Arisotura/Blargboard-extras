@@ -67,50 +67,32 @@
 }
 </style>
 
-	<table class="downloadtable" border="1" cellspacing="1" cellpadding="0">
-	<table id="downloads">
-		<tr>
-			<th></i></th>
-			<th><center>Download Name:</center></th>
-			<th><center>Download:</center></th>
-			<th><center>Notes:</center></th>
-		</tr>
-        <tr>
-             <!-- If you want a custom icon and not Font Awesome, you can use this html instead: <img src="http://kuribo64.net/img/icons/icon1.png"> 
-             NOTE: If you are using font awesome for the icons, make sure to add fa-lg after you icon code, to get the best result! Also, try to keep the image small, and not 
-             giant.-->
-			<td><i class="fa fa-file-code-o fa-lg"></td>
-			<td><b>Add download name here<b></td>
-			<td><b><a href=""><button type="button">Download</button></a><b></td>
-			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
-		</tr>
+<table class="outline margin forumlist">
+		<tbody><tr class="header1">
+			<th>&nbsp;</th>
+			<th>Download name</th>
+			<th style="width: 75px;">Download</th>
 			
-		<tr class="alt">
-			<td><i class="fa fa-file-code-o fa-lg"></td>
-			<td><b>Add download name here<b></td>
-			<td><b><a href=""><button type="button">Download</button></a><b></td>
-			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
+			<th style="min-width:150px; width:50%;">Notes</th>
+			
 		</tr>
-		<tr>
-			<td><i class="fa fa-file-code-o fa-lg"></td>
-			<td><b>Add download name here<b></td>
-			<td><b><a href=""><button type="button">Download</button></a><b></td>
-			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>	
-	    <tr>	
-		</tr>	
-		<tr class="alt">
-			<td><i class="fa fa-file-code-o fa-lg"></td>
-			<td><b>Add download name here<b></td>
-			<td><b><a href=""><button type="button">Download</button></a><b></td>
-			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
+				<tr class="cell1">
+			<td class="cell2 newMarker"></td>
+			<td>
+				<h4>Name</h4>
+				
+			</td>
+			<td class="center cell2"><a href="/?page=forum&amp;id=1"><button>Button</button></a></td>
+			
+			<td class="center smallFonts">
+				<span>
+									—
+								</span>
+			</td>	
+			
 		</tr>
-		<tr>
-			<td><i class="fa fa-file-code-o fa-lg"></td> 
-			<td><b>Add download name here<b></td>
-			<td><b><a href=""><button type="button">Download</button></a><b></td>
-			<td><b>Add release notes or something like that here, or if you don't need to post anything here just write n/a<b></td>
-		</tr>
-	</table>
+				
+			</tbody></table>
 	<br>
 	<div id="definitions"><div id="titlebar"><center><h3>Icon Definitions:</h3></center></div><i class="fa fa-exclamation-triangle"></i>: Unstable/Dangerous<br>
 	<i class="fa fa-file-code-o"></i>: Script File<br>
