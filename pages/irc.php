@@ -10,20 +10,6 @@ $title = __("IRC Page");
 If you have an IRC Client..:<br>
 If your IRC client allows irc:// links, click <a href="irc://irc.yourserver.com/yourchannel">here</a><br>
 You can join the channel with your IRC Client with this data:<br>
-<table class="outline margin anncbar">
-<tbody>
-<tr class="header1">
-<th>Channel:</th>
-<th style="width: 20%">Server:</th>
-</tr>
-<tr class="cell1">
-<td>
-<center>#yourchannel</center>
-</td>
-<td>
-<table>
-<tbody>
-<tr>
-<center>irc.yourserver.com</center></td></tr></tbody></table></td></tr></tbody></table>
+<tbody><tr class="header1"><th>Channel:</th><th style="width: 20%">Server:</th></tr><tr class="cell1"><td><center>#yourchannel</center></td><td><table><tbody><tr><center>irc.yourserver.com</center></td></tr></tbody></table></td></tr></tbody></table>
 </div>
 </html>
