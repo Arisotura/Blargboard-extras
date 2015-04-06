@@ -32,4 +32,4 @@ Check themeinfo.txt to see who made the theme that you're looking for.
 
 ### Pages:  
 - Download Page: Hennamann   
-- IRC Page: StarLand, LifeMushroom
+- IRC Page: StarLand, LifeMushroom, AlphaTech
