@@ -14,5 +14,6 @@ $nameprefix = "IRCGuest";
 <p>If your IRC client allows irc:// links, click <a href="irc://<?php echo $net; ?>/<?php echo $chan; ?>">here</a> to join our channel!</p>
 <p>Channel: #<?php echo $chan; ?></p>
 <p>Server: <?php echo $net; ?></p>
+</center>
 </div>
 </html>
