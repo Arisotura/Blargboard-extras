@@ -1,5 +1,5 @@
 <?php
-// Zelda Ranket from Acmlmboard 2. Converted from Acmlmboard format to BlargBoard format by AlphaTech
+// Zelda Ranket from Acmlmboard 2 by Fyxe. Converted from Acmlmboard format to BlargBoard format by AlphaTech
 $ranksetNames["zelda"] = "Zelda"; 
 $ranksetData["zelda"] = array(
 array("num" => 0, "image" => '', "text" => 'Non-poster'), 
