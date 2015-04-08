@@ -34,6 +34,6 @@ array("num" => 270, "image" => 'Vire.gif', "text" => 'Vire'),
 array("num" => 280, "image" => 'Vitreous.gif', "text" => 'Vitreous'), 
 array("num" => 290, "image" => 'YellowStalfos.gif', "text" => 'Yellow Stalfos'), 
 array("num" => 300, "image" => 'Zelda.gif', "text" => 'Zelda'), 
-array("num" => 10, "image" => 'Zirro.gif', "text" => 'Zirro'), 
-array("num" => 10, "image" => 'Zora.gif', "text" => 'Zora')
+array("num" => 310, "image" => 'Zirro.gif', "text" => 'Zirro'), 
+array("num" => 320, "image" => 'Zora.gif', "text" => 'Zora')
 );
