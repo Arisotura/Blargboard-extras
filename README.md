@@ -24,6 +24,7 @@ Check themeinfo.txt to see who made the theme that you're looking for.
 - Power-Ups rankset: SuperYoshi1000  
 - Yoshi rankset: 8JeDaYoshi8  
 - Jinjo rankset: Solaris  
+- Zelda rankset: AlphaTech
 
 ### Plugins:  
 
