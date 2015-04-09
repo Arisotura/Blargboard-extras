@@ -16,15 +16,16 @@ Check themeinfo.txt to see who made the theme that you're looking for.
 
 ### Ranksets:  
 
-- 2048 rankset: Kyle McShade  
-- BT rankset: Solaris  
-- BTBosses rankset: Solaris  
-- NSMBW rankset: LifeMushroom  
-- Minecraft rankset: Jawsome  
-- Power-Ups rankset: SuperYoshi1000  
-- Yoshi rankset: 8JeDaYoshi8  
-- Jinjo rankset: Solaris  
-- Zelda rankset: AlphaTech
+- 2048 Rankset: Kyle McShade  
+- BT Rankset: Solaris  
+- BTBosses Rankset: Solaris  
+- NSMBW Rankset: LifeMushroom  
+- Minecraft Rankset: Jawsome  
+- Power-Ups Rankset: SuperYoshi1000  
+- Yoshi Rankset: 8JeDaYoshi8  
+- Jinjo Rankset: Solaris  
+- Zelda Rankset: AlphaTech
+- Terraria Rankset: AlphaTech
 
 ### Plugins:  
 
