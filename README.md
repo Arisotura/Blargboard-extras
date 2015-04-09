@@ -26,6 +26,8 @@ Check themeinfo.txt to see who made the theme that you're looking for.
 - Jinjo Rankset: Solaris  
 - Zelda Rankset: AlphaTech
 - Terraria Rankset: AlphaTech
+- Sonic Rankset: AlphaTech
+- Kirby Rankset: AlphaTech
 
 ### Plugins:  
 
