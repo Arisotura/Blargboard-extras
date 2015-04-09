@@ -93,5 +93,5 @@ array("num" => 570, "image" => 'waddledoo.gif', "text" => 'Waddledoo'),
 array("num" => 580, "image" => 'walkie.gif', "text" => 'Walkie'),                                                                                  
 array("num" => 590, "image" => 'wheeliebig.gif', "text" => 'Wheelie Big'),                                                                                     
 array("num" => 600, "image" => 'wheelierider.gif', "text" => 'Wheelie Rider'),
-array("num" => 700, "image" => 'whispywoods.gif', "text" => 'Whispy Woords')
+array("num" => 700, "image" => 'whispywoods.gif', "text" => 'Whispy Woods')
 );
