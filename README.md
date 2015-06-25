@@ -2,7 +2,9 @@
 
 Blargboard is a forum software developed in PHP and MySQL based off of ABXD by StapleButter. Download it where ever you can find it, as it is dead.
 
-This is where themes, ranksets, and addons will be uploaded.  
+This is where themes, ranksets, and addons are uploaded.
+
+THIS REPO IS DEAD. PULL REQUESTS WILL NOT BE ACCEPTED.
 
 ## How to install  
 Add the content of each directory to the same directory that exists in your board's files.  
